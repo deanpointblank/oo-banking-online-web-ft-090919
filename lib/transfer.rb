@@ -1,4 +1,8 @@
 class Transfer
   # your code here
-  attr_accessor: 
+  attr_accessor :sender, :reciever, :status, :amount
+  
+  def initialize
+    
+  end
 end
